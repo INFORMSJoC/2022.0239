@@ -1,7 +1,3 @@
-## Additional documentation
+## Online Supplement
 
-Here is some additional documentation, which could appear at
-
-https://INFORMSJoc.github.io/JoCTemplate
-
-if we set it up that way.
+Online Supplement for "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities"
