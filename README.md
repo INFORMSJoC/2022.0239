@@ -53,29 +53,13 @@ values of K using `gcc` 7.5 on an Ubuntu Linux box.
 
 ## Replicating
 
-To replicate the results in [Figure 1](results/mult-test), do either
+To replicate the results run [sample_replicate](scripts/sampel_replicate), to replicate the results of the 500-gon example presented in Figure 13 of the paper. Change the input data to replicate other results.
 
-```
-make mult-test
-```
-or
-```
-python test.py mult
-```
-To replicate the results in [Figure 2](results/sum-test), do either
-
-```
-make sum-test
-```
-or
-```
-python test.py sum
-```
 
 ## Ongoing Development
 
 This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/tkralphs/JoCTemplate).
+[Github site](https://github.com/behroozim/GeomShapeApprox_InscribedRect).
 
 ## Contacnt & Support
 
