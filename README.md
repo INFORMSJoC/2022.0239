@@ -53,7 +53,7 @@ values of K using `gcc` 7.5 on an Ubuntu Linux box.
 
 ## Replicating
 
-To replicate the results run [sample_replicate](scripts), to replicate the results of the 500-gon example presented in Figure 13 of the paper. Change the input data to replicate other results.
+To replicate the results run [sample_replicate](scripts/), to replicate the results of the 500-gon example presented in Figure 13 of the paper. Change the input data to replicate other results.
 
 
 ## Ongoing Development
