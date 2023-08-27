@@ -85,7 +85,7 @@ V=Vertices;
 %theta = linspace(-pi/2,pi/2,181); 
 %theta = linspace(0,89*pi/180,90);
 %theta = theta(2:end-1);
-theta = linspace(-pi/4,pi/4,39);
+theta = linspace(-pi/4,pi/4,45);
 %theta = 0;
 
 
