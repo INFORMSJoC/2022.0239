@@ -52,7 +52,9 @@ The [results](results/) for both instances are provided.
 
 ## Sources Codes
 
-The codes are written in MATLAB. All codes can be found in [src](src/) folder. The cvx package is rquired in one the functions. The package is free to use and can be found at the [cvx](https://github.com/cvxr/cvx) GitHub repository.
+The codes are written in MATLAB. All codes can be found in [src](src/) folder. 
+The cvx package is rquired in one the functions. The package is free to use and can be found at the [cvx](https://github.com/cvxr/cvx) GitHub repository.
+Any other convex optimization package could be used.
 
 ## Replicating
 
