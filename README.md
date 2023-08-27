@@ -37,7 +37,11 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc. The only constraint is that the convex body must be defined in finite number of convex inequalities. For more information please see the paper cited above.
+The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc. 
+The only constraint is that the convex body must be defined in finite number of convex inequalities. 
+For more information please see the paper cited above.
+
+Each folder contains a README.md file for more specific information.
 
 ## Data
 Two data sets are provided. One is an easy 10-gon (convex polygon with 10 vertices) and the other is a hard 500-gon instance.
