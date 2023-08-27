@@ -32,7 +32,8 @@ objValue=0;
 
 for t=TT
     it=it+1
-    %requires cvx installlation
+    %requires cvx installlation (a free package)
+    %any other package of convex optimization would work.
     cvx_begin quiet
         variables u(2) v(2) x(2) y(2) z(2) w(2);
 
