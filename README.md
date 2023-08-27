@@ -39,17 +39,16 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc.
 
+## Data
+Two data sets are provided. One is an easy 10-gon (convex polygon with 10 vertices) and the other is a hard 500-gon instance.
+
 ## Results
 
-Figure 1 in the paper shows the results of the multiplication test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
+The [results](results/) for both instances are provided.
 
-![Figure 1](results/mult-test.png)
+## Codes
 
-Figure 2 in the paper shows the results of the sum test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/sum-test.png)
+All codes can be found in [src](src/) folder.
 
 ## Replicating
 
