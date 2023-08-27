@@ -39,27 +39,6 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc.
 
-## Building
-
-In Linux, to build the version that multiplies all elements of a vector by a
-constant (used to obtain the results in [Figure 1](results/mult-test.png) in the
-paper), stepping K elements at a time, execute the following commands.
-
-```
-make mult
-```
-
-Alternatively, to build the version that sums the elements of a vector (used
-to obtain the results [Figure 2](results/sum-test.png) in the paper), stepping K
-elements at a time, do the following.
-
-```
-make clean
-make sum
-```
-
-Be sure to make clean before building a different version of the code.
-
 ## Results
 
 Figure 1 in the paper shows the results of the multiplication test with different
@@ -98,7 +77,7 @@ python test.py sum
 This code is being developed on an on-going basis at the author's
 [Github site](https://github.com/tkralphs/JoCTemplate).
 
-## Support
+## Contacnt & Support
 
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+For support in using this software or questions about the paper, submit an
+[issue](https://github.com/tkralphs/JoCTemplate/issues/new) or contact Mehdi Behroozi at [email](m.behroozi.neu.edu).
