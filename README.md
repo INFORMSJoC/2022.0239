@@ -46,9 +46,9 @@ Two data sets are provided. One is an easy 10-gon (convex polygon with 10 vertic
 
 The [results](results/) for both instances are provided.
 
-## Codes
+## Sources Codes
 
-All codes can be found in [src](src/) folder.
+The codes are written in MATLAB. All codes can be found in [src](src/) folder. The cvx package is rquired in one the functions. The package is free to use and can be found at the [cvx](https://github.com/cvxr/cvx) GitHub repository.
 
 ## Replicating
 
