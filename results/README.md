@@ -1,4 +1,4 @@
-# Description of Results
+# Description of Results from "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities"
 
 ft-1 shows the whole range of tangent of theta.
 ft-2 shows the search with more percesion in the neighborhood of the optimal solution.
