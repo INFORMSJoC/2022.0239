@@ -48,7 +48,7 @@ Two data sets are provided. One is an easy 10-gon (convex polygon with 10 vertic
 
 ## Results
 
-The [results](results/) for both instances are provided. This folder also includes all results from the paper.
+The [results](results/) for both instances are provided. This folder also includes other results from the paper. 
 
 ## Sources Codes
 
