@@ -64,4 +64,4 @@ This code is being developed on an on-going basis at the author's
 ## Contacnt & Support
 
 For support in using this software or questions about the paper, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new) or contact Mehdi Behroozi at [email](mailto:m.behroozi.neu.edu).
+[issue](https://github.com/tkralphs/JoCTemplate/issues/new) or contact Mehdi Behroozi at [email](mailto:m.behroozi.neu.edu?subject=[GitHub]%20Largest%20Inscribed%20Rectangle).
