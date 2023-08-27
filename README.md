@@ -45,6 +45,7 @@ Each folder contains a README.md file for more specific information.
 
 ## Data
 Two data sets are provided. One is an easy 10-gon (convex polygon with 10 vertices) and the other is a hard 500-gon instance.
+The text files also contain instruction on genereating other random instances.
 
 ## Results
 
