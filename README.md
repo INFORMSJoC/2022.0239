@@ -1,45 +1,43 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-(https://doi.org/10.1287/ijoc.2022.0239) by Mehdi Behroozi. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+This repository is a snapshot of the data and codes that were used in the research 
+reported on in the paper: Mehdi Behroozi, Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities, INFORMS Journal on Computing, 2023,
+(https://doi.org/10.1287/ijoc.2022.0239). 
+
 
 **Important: This code is being developed on an on-going basis at 
-https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
-get a more recent version or would like support**
+(https://github.com/behroozim/GeomShapeApprox_InscribedRect). Please go there if you would like to
+get a more recent version of this and similar projects or would like support**
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2019.0000
+https://doi.org/10.1287/ijoc.2022.0239
 
-https://doi.org/10.1287/ijoc.2019.0000.cd
+https://doi.org/10.1287/ijoc.2022.0239.cd
 
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{CacheTest,
-  author =        {T. Ralphs},
+  author =        {Behroozi, Mehdi},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
-  year =          {2020},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
+  title =         {{Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities}},
+  year =          {2023},
+  doi =           {10.1287/ijoc.2022.0239.cd},
+  url =           {https://github.com/INFORMSJoC/2022.0239},
 }  
 ```
 
 ## Description
 
-The goal of this software is to demonstrate the effect of cache optimization.
+The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc.
 
 ## Building
 
