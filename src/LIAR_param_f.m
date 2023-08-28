@@ -1,4 +1,4 @@
-function [volLIR,volPercent]= LIAR_param_f (Vertices)
+function [D,volLIR,volPercent]= LIAR_param_f (Vertices)
 
 %% Parametric approach for LIAR in a convex polygon
 % This function finds the Largest Inscibed Axis-aligned Rectangle inside
@@ -105,7 +105,7 @@ angleDif=acos(cosAlpha)-pi/2
 %dif=abs(volLIR-objValue) 
 volPercent=volLIR/vol*100;
 
-D=[xStar'; yStar'; zStar'; wStar']
+D=[xStar'; yStar'; zStar'; wStar'];
 
 k1=convhull(V);
 center = mean(D);
