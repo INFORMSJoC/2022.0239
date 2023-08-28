@@ -26,6 +26,7 @@ The angle precision is the degree of accuracy of the optimal solution regarding 
 <br />
 Here is a text example:
 <br />
+<br />
 
 ```
 Vertices=[3 0; 7 1; 8 3; 6 5; 1.5 4; 0.5 2];
