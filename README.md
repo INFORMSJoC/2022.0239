@@ -9,6 +9,8 @@ This repository is a snapshot of the data and codes that were used in the resear
 reported on in the paper: Mehdi Behroozi, Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities, INFORMS Journal on Computing, 2023,
 (https://doi.org/10.1287/ijoc.2022.0239). 
 
+This repository also serves an an online Supplement for "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities".
+
 
 **Important: This code is being developed on an on-going basis at 
 (https://github.com/behroozim/GeomShapeApprox_InscribedRect). Please go there if you would like to
@@ -40,6 +42,8 @@ Below is the BibTex for citing this snapshot of the respoitory.
 The goal of this software is to fins largest inscribed rectangles inside convex bodies such as convex polygon, ellipse, etc. 
 The only constraint is that the convex body must be defined in finite number of convex inequalities. 
 For more information please see the paper cited above.
+
+
 
 Each folder contains a README.md file for more specific information.
 
