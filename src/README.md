@@ -1,10 +1,18 @@
 # Source Codes
 
-Here are the source codes for "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities".
+Here are the source codes for the paper "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities".
 
 In some functions cvx is used. You could replace it with any other convex optimization package.
 
-File LIR_param_f.m is the main file. This function finds the Largest Inscibed Rectangle inside a polygon (ellipse or other convex bodies) and returns its volume and its ratio to the volume of the polygon (convex body).
+The function plygon_diamter_2d_caliper.m finds the diameter of the polygon. Function plygon_diamter_2d_brute.m provides an alternative method for doing this. The former is more efficient.
+
+The function axisAlign.m makes the diamtere of the given shape aligned with the x-axis and returns the updated shape data.
+
+The function polyVert2Linq takes vertices of a polygon and returns the coefficients of the linear inequalities defining the polygon.
+
+The function innerOptProb.m solves the inner optimiation problem as described in the paper. It takes the coefficients of the convex inequalities defining the input shape and a vector of directions given in form of tangent of angle theta. It finds the optimal rectangle aligned to rotated axes for each of those angles.
+
+File LIR_param_f.m is the main file. This function finds the Largest Inscibed Rectangle inside a polygon (ellipse or other convex bodies) and returns its volume and its ratio to the volume of the polygon (convex body). Its axis-aligned version is presented in LIAR_param.m.
 
 The input to this function is the shape in which we need to find the largest inscribed rectangle, an angle precision, an epsilon error as a measure of accuracy. 
 
@@ -27,3 +35,5 @@ This will return the corners of the largest rectangle in D, it's area in volLIR,
 ![testExample-LIR](https://github.com/behroozim/2022.0239/assets/50671703/7fc3df09-b977-446a-a352-820cd7cd82db)
 ![testExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/e313cfe2-6d75-4d39-a5f9-c3991961d8f3)
 ![testExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/6a5ed4a0-6c61-46e5-a3cc-c149c5c2e42c)
+
+
