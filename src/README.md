@@ -73,6 +73,7 @@ This will return
 
 
 <br />
+<br />
 In some functions cvx is used. The package is free to use and can be found here: https://github.com/cvxr/cvx .
 You could also replace it with any other convex optimization package.
 
