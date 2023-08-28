@@ -23,3 +23,4 @@ anglePercision=0.1;
 ```
 
 This will return the corners of the largest rectangle in D, it's area in volLIR, and the percentage of that the area of the input polygon in volPercent. It will also return the plot of the solution, a plot of the objective function, and a third plot that shows the results of more detailed search in the neighborhood of the optimal solution.
+![testExample-LIR](https://github.com/behroozim/2022.0239/assets/50671703/7fc3df09-b977-446a-a352-820cd7cd82db)
