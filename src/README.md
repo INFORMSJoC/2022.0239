@@ -43,3 +43,5 @@ This will return the corners of the largest rectangle in D, it's area in volLIR,
 ![testExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/6a5ed4a0-6c61-46e5-a3cc-c149c5c2e42c)
 
 
+In some functions cvx is used. The package is free to use and can be found here: https://github.com/cvxr/cvx .
+You could also replace it with any other convex optimization package.
