@@ -60,11 +60,13 @@ anglePercision=0.1;
 
 [D,volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr)
 ```
+
 <br />
 <br />
 This will return
 <br />
 <br />
+
 ![10gonExample-MAIR](https://github.com/behroozim/2022.0239/assets/50671703/0a73131c-15d9-468e-9936-585ca735fe00)
 ![10gonExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/813d5354-8080-41b1-b16b-9a2c8e357d42)
 ![10gonExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/44450bdd-4a73-4d6f-b833-f6b232a31dc5)
