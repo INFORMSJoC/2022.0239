@@ -24,7 +24,7 @@ The angle precision is the degree of accuracy of the optimal solution regarding 
 
 <br />
 <br />
-Here is a text example:
+Here is a test example:
 <br />
 <br />
 
