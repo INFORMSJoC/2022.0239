@@ -27,7 +27,7 @@ https://doi.org/10.1287/ijoc.2022.0239.cd
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
+@article{behroozi2023inscribed,
   author =        {Behroozi, Mehdi},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities}},
