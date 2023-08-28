@@ -8,8 +8,6 @@
 
 clear all;
 
-Vertices=importdata('500gonExample.dat');
-
 epsErr=1e-5;
 anglePercision=0.1;
 
