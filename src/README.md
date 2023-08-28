@@ -13,6 +13,7 @@ The function polyVert2Linq takes vertices of a polygon and returns the coefficie
 The function innerOptProb.m solves the inner optimiation problem as described in the paper. It takes the coefficients of the convex inequalities defining the input shape and a vector of directions given in form of tangent of angle theta. It finds the optimal rectangle aligned to rotated axes for each of those angles.
 
 <br />
+<br />
 The function LIR_param_f.m is the main function. This function finds the Largest Inscibed Rectangle inside a polygon (ellipse or other convex bodies) and returns its volume and its ratio to the volume of the polygon (convex body). Its axis-aligned version is presented in LIAR_param.m.
 
 The input to this function is the shape in which we need to find the largest inscribed rectangle, an angle precision, an epsilon error as a measure of accuracy. 
@@ -21,7 +22,10 @@ For polygons the shape can be defined by an array of vertices. For ellipses the 
 
 The angle precision is the degree of accuracy of the optimal solution regarding the angle it makes with the x-axis.
 
-An example is 
+<br />
+<br />
+Here is a text example:
+<br />
 
 ```
 Vertices=[3 0; 7 1; 8 3; 6 5; 1.5 4; 0.5 2];
