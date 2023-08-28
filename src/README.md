@@ -42,9 +42,9 @@ This will return the corners of the largest rectangle in D, it's area in volLIR,
 <br />
 <br />
 
-![testExample-LIR](https://github.com/behroozim/2022.0239/assets/50671703/7fc3df09-b977-446a-a352-820cd7cd82db)
-![testExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/e313cfe2-6d75-4d39-a5f9-c3991961d8f3)
-![testExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/6a5ed4a0-6c61-46e5-a3cc-c149c5c2e42c)
+<img width="700" alt="testExample-LIR" src="https://github.com/behroozim/2022.0239/assets/50671703/7fc3df09-b977-446a-a352-820cd7cd82db">
+<img width="700" alt="testExample-ft-1" src="https://github.com/behroozim/2022.0239/assets/50671703/e313cfe2-6d75-4d39-a5f9-c3991961d8f3">
+<img width="700" alt="testExample-ft-2" src="https://github.com/behroozim/2022.0239/assets/50671703/6a5ed4a0-6c61-46e5-a3cc-c149c5c2e42c">
 
 <br />
 <br />
@@ -67,9 +67,9 @@ This will return
 <br />
 <br />
 
-![10gonExample-MAIR](https://github.com/behroozim/2022.0239/assets/50671703/0a73131c-15d9-468e-9936-585ca735fe00)
-![10gonExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/813d5354-8080-41b1-b16b-9a2c8e357d42)
-![10gonExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/44450bdd-4a73-4d6f-b833-f6b232a31dc5)
+<img width="700" alt="10gonExample-MAIR" src="https://github.com/behroozim/2022.0239/assets/50671703/0a73131c-15d9-468e-9936-585ca735fe00">
+<img width="700" alt="10gonExample-ft-1" src="https://github.com/behroozim/2022.0239/assets/50671703/813d5354-8080-41b1-b16b-9a2c8e357d42">
+<img width="700" alt="10gonExample-ft-2" src="https://github.com/behroozim/2022.0239/assets/50671703/44450bdd-4a73-4d6f-b833-f6b232a31dc5">
 
 
 
