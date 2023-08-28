@@ -2,7 +2,7 @@
 
 Here are the script and source codes needed to replicate the fat polygon of Figure 12 and the 500-gon ill-behaved example of Figure 13 in the paper "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities". A third random example of a 10-gon is also provided.
 
-To replicate the first example make sure the following line is uncommneted and the other examples are commented:
+To replicate the first example make sure you use the following lines and the other examples are commented:
 <br />
 <br />
 ```
@@ -13,13 +13,14 @@ Vertices = [0 2.60473; 3.34894 0; 7.31805 0.496139; 8.06226 2.60473; 5.7056 5.33
 <br />
 This will give you
 <br />
-<img width="576" alt="LIR-new-6-9-c" src="https://github.com/behroozim/2022.0239/assets/50671703/5735e4f5-ec81-49ef-9de2-9c3159b9172d">
-<img width="576" alt="ft-new-6-9-1" src="https://github.com/behroozim/2022.0239/assets/50671703/24619e98-529b-4325-94cc-7184d91f1ffd">
-<img width="576" alt="ft-new-6-9-2" src="https://github.com/behroozim/2022.0239/assets/50671703/8b904bbd-a10e-45a9-b31e-acade813727e">
+
+<img width="700" alt="LIR-new-6-9-c" src="https://github.com/behroozim/2022.0239/assets/50671703/5735e4f5-ec81-49ef-9de2-9c3159b9172d">
+<img width="700" alt="ft-new-6-9-1" src="https://github.com/behroozim/2022.0239/assets/50671703/24619e98-529b-4325-94cc-7184d91f1ffd">
+<img width="700" alt="ft-new-6-9-2" src="https://github.com/behroozim/2022.0239/assets/50671703/8b904bbd-a10e-45a9-b31e-acade813727e">
 
 <br />
 <br />
-To replicate the first example make sure the following line is uncommneted and the other examples are commented:
+To replicate the first example make sure you use the following lines and the other examples are commented:
 <br />
 <br />
 
