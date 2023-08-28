@@ -12,14 +12,12 @@ For polygons the shape can be defined by an array of vertices. For ellipses the 
 
 An example is 
 
-...
-
+```
 Vertices=[3 0; 7 0; 8 2; 6 5; 2 5; 0 3];
 epsErr=1e-5;
 anglePercision=0.1;
 
 [D,volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr)
-
-...
+```
 
 This will return the corners of the largest rectangle in D, it's area in volLIR, and the percentage of that the area of the input polygon in volPercent.
