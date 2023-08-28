@@ -2,9 +2,8 @@
 
 As an example to clarify the results and figures in the paper "Largest Volume Inscribed Rectangles in Convex Sets Defined by Finite Number of Inequalities", the results of the ill-behaved 500-gon example are exaplained here. 
 
-
-
 <br />
+The picture 500gonExample-MAIR shows the optimal solution (the largest rectangle) insude a polygon with 500 vertices distributed randomly on on periphery of a circle.
 <br />
 
 ![500gonExample-MAIR](https://github.com/behroozim/2022.0239/assets/50671703/120261f7-5ca0-430f-8257-521e3a8bc76d)
@@ -32,10 +31,10 @@ The picture 500gonExample-ft-2 shows the objective fucntion value for a targeted
 
 <br />
 <br />
-For other convex shapes please comment the polygonal commands in the LIR_param_f.m and innerOptProb.m and uncomment the commands related to that convex shape (ellipse, parabola, halfspaces, etc)
+For generating other convex shapes please comment the polygonal commands in the LIR_param_f.m and innerOptProb.m and uncomment the commands related to that convex shape (ellipse, parabola, halfspaces, etc)
 
 ![LIR-ellipse-2](https://github.com/behroozim/2022.0239/assets/50671703/c63bdd29-a0e6-4d3f-869a-47d697c59334)
 ![LIR-ellipse-4](https://github.com/behroozim/2022.0239/assets/50671703/744f6d76-2793-47f9-9bbd-7cb84c728a77)
 
 
-Other results from the paper are also provided. For further discussion on the results please see the paper .
+Other results from the paper are also provided in this foolder. For further discussion on the results please see the paper .
