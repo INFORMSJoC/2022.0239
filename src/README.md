@@ -36,11 +36,39 @@ anglePercision=0.1;
 [D,volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr)
 ```
 
+<br />
+<br />
 This will return the corners of the largest rectangle in D, it's area in volLIR, and the percentage of that the area of the input polygon in volPercent. It will also return the plot of the solution, a plot of the objective function, and a third plot that shows the results of more detailed search in the neighborhood of the optimal solution. These plots for the example above are as follows
+<br />
+<br />
 
 ![testExample-LIR](https://github.com/behroozim/2022.0239/assets/50671703/7fc3df09-b977-446a-a352-820cd7cd82db)
 ![testExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/e313cfe2-6d75-4d39-a5f9-c3991961d8f3)
 ![testExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/6a5ed4a0-6c61-46e5-a3cc-c149c5c2e42c)
+
+<br />
+<br />
+The second example uses a data set provided in the data folder in this repository:
+<br />
+<br />
+
+```
+V = load('10gonExample.mat'); % from folder data
+Vertices = V.Vertices;
+epsErr=1e-5;
+anglePercision=0.1;
+
+[D,volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr)
+```
+<br />
+<br />
+This will return
+<br />
+<br />
+![10gonExample-MAIR](https://github.com/behroozim/2022.0239/assets/50671703/0a73131c-15d9-468e-9936-585ca735fe00)
+![10gonExample-ft-1](https://github.com/behroozim/2022.0239/assets/50671703/813d5354-8080-41b1-b16b-9a2c8e357d42)
+![10gonExample-ft-2](https://github.com/behroozim/2022.0239/assets/50671703/44450bdd-4a73-4d6f-b833-f6b232a31dc5)
+
 
 
 In some functions cvx is used. The package is free to use and can be found here: https://github.com/cvxr/cvx .
