@@ -32,4 +32,10 @@ The picture 500gonExample-ft-2 shows the objective fucntion value for a targeted
 
 <br />
 <br />
+For other convex shapes please comment the polygonal commands in the LIR_param_f.m and innerOptProb.m and uncomment the commands related to that convex shape (ellipse, parabola, halfspaces, etc)
+
+![LIR-ellipse-2](https://github.com/behroozim/2022.0239/assets/50671703/c63bdd29-a0e6-4d3f-869a-47d697c59334)
+![LIR-ellipse-4](https://github.com/behroozim/2022.0239/assets/50671703/744f6d76-2793-47f9-9bbd-7cb84c728a77)
+
+
 Other results from the paper are also provided. For further discussion on the results please see the paper .
