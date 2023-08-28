@@ -42,3 +42,5 @@ This will give you
 
 In some functions cvx is used. The package is free to use and can be found here: https://github.com/cvxr/cvx .
 You could also replace it with any other convex optimization package.
+
+To learn more about each function see REEDME.md in the [src](src/) folder as well the description inside each fucntion.
