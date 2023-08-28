@@ -72,6 +72,8 @@ This will return
 <img width="700" alt="10gonExample-ft-2" src="https://github.com/behroozim/2022.0239/assets/50671703/44450bdd-4a73-4d6f-b833-f6b232a31dc5">
 
 
-
+<br />
 In some functions cvx is used. The package is free to use and can be found here: https://github.com/cvxr/cvx .
 You could also replace it with any other convex optimization package.
+
+For more information about the functions, please read the description inside each function.
