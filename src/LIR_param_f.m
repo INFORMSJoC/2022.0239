@@ -1,4 +1,4 @@
-function [volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr) %for polygons 
+function [D,volLIR,volPercent]= LIR_param_f (Vertices,anglePercision,epsErr) %for polygons 
 %         LIR_param_f (anglePercision,epsErr,x1,y1,x2,y2,e) % for elipses
           
 
@@ -100,7 +100,7 @@ TTOV=[] %Tangant Theta Objective Value
 ft(isnan(ft))=-1;
     
 figure
-plot(ft(:,1),ft(:,2))
+plot(ft(:,1),ft(:,2),'-b')
 hold on
 title('Objective function of LIR problem','fontweight','bold')
 xlabel('t','fontweight','bold')
@@ -318,13 +318,13 @@ angleDif=acos(cosAlpha)-pi/2
 volPercent=volLIR/vol*100;
 
 
-D=[xStar'; yStar'; zStar'; wStar']
+D=[xStar'; yStar'; zStar'; wStar'];
 
 
 fprintf('\n The total CPU time is: %f seconds',cputime-tct)
 
 figure
-plot(zoomedFT(:,1),zoomedFT(:,2))
+plot(zoomedFT(:,1),zoomedFT(:,2),'-b')
 hold on
 title('Dug in Objective function of LIR problem','fontweight','bold')
 xlabel('t','fontweight','bold')
